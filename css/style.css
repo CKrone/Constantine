@@ -2,27 +2,23 @@
 
 body {
     background-color: rgba(0, 0, 0, 0.911);
-  
-}
-
-header {
     
+}
+header {
     height: 90vh;
 }
 
+
 #tituloVideo {
-    margin: auto;
-    position: relative;
-    margin-top: 250px;
-    margin-left: 15%;
+    margin-top: 150px;
+    text-align: center;
     color: white;
 }
 
 #video {
-   margin: auto;
-   position: relative;
-   margin-left: 28%;
-}
+    text-align: center;
+  
+ }
 
 #imagem {
     margin: auto;
@@ -30,12 +26,13 @@ header {
 }
 
 #integrantes {
-    margin-top: 550px;
+    margin: auto;
+    margin-top: 100px;
 }
 
 #roteiro {
-    margin: auto;
-    margin-top: 350px;
+      
+    margin-top: 200px;
     color: white;
 }
 
@@ -44,19 +41,22 @@ header {
 }
 
 #integrantesEquipe {
-    color: white;
-    margin: auto;
-    position: relative;
-    margin-left: 40%;
-    margin-top: 150px;
+    
+    color: white;       
+    margin-top: 150px;   
+    text-align: center;
+  
 }
 
-#nav {
+#nav {    
     position: sticky;
-    top: 0;
+    top: 0%;
 }
 
 html {
     scroll-behavior: smooth;
   }
 
+.navbar-text {
+    margin: auto;
+}
