@@ -3,7 +3,7 @@ Trabalho para apresentação da equipe - PAC I - Católica SC - Engenharia de So
 
 
 ![image](https://user-images.githubusercontent.com/86797383/186779579-aba9c515-9832-4e86-91ee-77c6a3ae002e.png)
-
+<li>Menu com o logo da equipe;</li>
 ![image](https://user-images.githubusercontent.com/86797383/186779646-c7142b55-7060-4ebe-bd13-2d70755fba2d.png)
 
 ![image](https://user-images.githubusercontent.com/86797383/186779672-d05a17e5-2c3a-4e97-b6cb-93d084c0b8af.png)
